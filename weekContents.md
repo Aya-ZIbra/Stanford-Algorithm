@@ -24,3 +24,12 @@
 **HOMEWORK**: Problem Set #3 has five questions about the randomized selection algorithm, cuts in graphs, and the contraction algorithm. Programming Assignment #3 asks you to implement the contraction algorithm and use it to compute the min cut of the graph that we provide.
 
 **RELATED READINGS:** *[Algorithms Illuminated (Part 1)](https://www.amazon.com/dp/0999282905)*, Chapter 6.
+
+
+* [Sign in or Register | Stanford Lagunita](https://lagunita.stanford.edu/login?next=/courses/course-v1%3AEngineering%2BAlgorithms1%2BSelfPaced/course/)
+* [Sign in or Register | Stanford Lagunita](https://lagunita.stanford.edu/login?next=/courses/course-v1%3AEngineering%2BAlgorithms1%2BSelfPaced/courseware/2cb01d3fab0e41c5b97a4658d8d1bbfd/fe413b3a7c1447288a9a631758eb1d31/)
+* [Sign in or Register | Stanford Lagunita](https://lagunita.stanford.edu/login?next=/courses/course-v1%3AEngineering%2BAlgorithms1%2BSelfPaced/courseware/e8eecbef0eef40bf9cd583f3599145e1/2103c3d12ce1427796f48d748da153b3/%3Factivate_block_id%3Dblock-v1%253AEngineering%252BAlgorithms1%252BSelfPaced%252Btype%2540sequential%252Bblock%25402103c3d12ce1427796f48d748da153b3)
+* [Search results - Google Drive](https://drive.google.com/drive/search?q=owner:me%20(type:application/vnd.google.colaboratory%20||%20type:application/vnd.google.colab))
+* [Assignment3.ipynb - Colaboratory](https://colab.research.google.com/drive/1yn-vwCYW0gcThxhWqe6vFxYLkiPQFGNl#scrollTo=Jm-lbZUfmhXF)
+* [Aya-ZIbra/Stanford-Algorithm](https://github.com/Aya-ZIbra/Stanford-Algorithm)
+* [Stanford-Algorithm/weekContents.md at master · Aya-ZIbra/Stanford-Algorithm](https://github.com/Aya-ZIbra/Stanford-Algorithm/blob/master/weekContents.md)
